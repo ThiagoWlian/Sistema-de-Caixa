@@ -1,0 +1,17 @@
+C:\Users\ThiagoW\Desktop\FrenteCaixa\FrenteCaixa\bin\Debug\FrenteCaixa.exe.config
+C:\Users\ThiagoW\Desktop\FrenteCaixa\FrenteCaixa\bin\Debug\FrenteCaixa.exe
+C:\Users\ThiagoW\Desktop\FrenteCaixa\FrenteCaixa\bin\Debug\FrenteCaixa.pdb
+C:\Users\ThiagoW\Desktop\FrenteCaixa\FrenteCaixa\obj\Debug\FrenteCaixa.csprojAssemblyReference.cache
+C:\Users\ThiagoW\Desktop\FrenteCaixa\FrenteCaixa\obj\Debug\FrenteCaixa.Properties.Resources.resources
+C:\Users\ThiagoW\Desktop\FrenteCaixa\FrenteCaixa\obj\Debug\FrenteCaixa.csproj.GenerateResource.cache
+C:\Users\ThiagoW\Desktop\FrenteCaixa\FrenteCaixa\obj\Debug\FrenteCaixa.exe
+C:\Users\ThiagoW\Desktop\FrenteCaixa\FrenteCaixa\obj\Debug\FrenteCaixa.pdb
+C:\Users\ThiagoW\Desktop\FrenteCaixa\FrenteCaixa\bin\Debug\MySql.Data.dll
+C:\Users\ThiagoW\Desktop\FrenteCaixa\FrenteCaixa\bin\Debug\Google.Protobuf.dll
+C:\Users\ThiagoW\Desktop\FrenteCaixa\FrenteCaixa\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ThiagoW\Desktop\FrenteCaixa\FrenteCaixa\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ThiagoW\Desktop\FrenteCaixa\FrenteCaixa\bin\Debug\Renci.SshNet.dll
+C:\Users\ThiagoW\Desktop\FrenteCaixa\FrenteCaixa\bin\Debug\MySql.Data.xml
+C:\Users\ThiagoW\Desktop\FrenteCaixa\FrenteCaixa\obj\Debug\FrenteCaixa.csproj.CopyComplete
+C:\Users\ThiagoW\Desktop\FrenteCaixa\FrenteCaixa\obj\Debug\FrenteCaixa.Caixa.resources
+C:\Users\ThiagoW\Desktop\FrenteCaixa\FrenteCaixa\obj\Debug\FrenteCaixa.FechamentoVenda.resources
